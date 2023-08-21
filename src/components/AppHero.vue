@@ -22,9 +22,4 @@
     width: 100%;
     height: 91vh;
 }
-
-.my-btn {
-        height: 8rem;
-        width: 10rem;
-    }
 </style>
