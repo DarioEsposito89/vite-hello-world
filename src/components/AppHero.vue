@@ -5,7 +5,7 @@
     <div class="container d-flex justify-content-center align-items-center">
         <div class="jumbotron text-center text-white">
             <h1 class="display-4">Benvenuti!</h1>
-            <p class="lead">Questo è la mia prima Jumboton con Vite.</p>
+            <p class="lead">Questo è la mia prima Jumbotron con Vite.</p>
             <hr class="my-4">
             <a class="btn btn-primary btn-lg me-2" href="#" role="button">Get Started</a>
             <a class="btn btn-secondary btn-lg ms-2" href="#" role="button">View on GitHub</a>
